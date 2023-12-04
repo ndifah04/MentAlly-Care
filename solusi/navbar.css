@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .back-button {
+    display: flex;
+    align-items: center;
+  }
+  
+  .back-icon {
+    margin-right: 5px;
+  }
+  
+  .navbar-title {
+    text-align: center;
+  }
+  
+  /* Style tambahan sesuai kebutuhan Anda */
+  
